@@ -1,3 +1,8 @@
+'''
+:description: This program reads data from xml file and creates pandas DataFrame object 
+:author: Sławomir Kwiatkowski
+:date: 2020-12-23 
+'''
 import xml.dom.minidom
 from collections import defaultdict
 import pandas as pd
